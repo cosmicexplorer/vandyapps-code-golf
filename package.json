@@ -1,0 +1,16 @@
+{
+  "name": "code-golf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmicexplorer/vandyapps-code-golf.git"
+  },
+  "author": "Danny McClanahan <danieldmcclanahan@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/cosmicexplorer/vandyapps-code-golf/issues"
+  },
+  "homepage": "https://github.com/cosmicexplorer/vandyapps-code-golf#readme",
+  "dependencies": {
+    "coffee-script": "^1.11.1",
+    "glob": "^7.1.1"
+  }
+}
